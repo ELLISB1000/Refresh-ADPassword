@@ -172,6 +172,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/ELLISB1000/Refresh-ADPassword.svg?style=for-the-badge
 [issues-url]: https://github.com/ELLISB1000/Refresh-ADPassword/issues
 [license-shield]: https://img.shields.io/github/license/ELLISB1000/Refresh-ADPassword.svg?style=for-the-badge
-[license-url]: https://github.com/ELLISB1000/Refresh-ADPassword/blob/master/LICENSE.txt
+[license-url]: https://github.com/ELLISB1000/Refresh-ADPassword/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ellis-barrett
